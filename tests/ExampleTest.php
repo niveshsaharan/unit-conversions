@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Skeleton\Tests;
+namespace Centire\UnitConversion\Tests;
 
 use PHPUnit\Framework\TestCase;
 

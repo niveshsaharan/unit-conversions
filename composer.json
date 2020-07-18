@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_name/:package_name",
-    "description": ":package_description",
+    "name": "centire/unit-conversions",
+    "description": "Unit conversion in PHP",
     "keywords": [
-        ":vendor_name",
-        ":package_name"
+        "centire",
+        "unit-conversions"
     ],
-    "homepage": "https://github.com/spatie/:package_name",
+    "homepage": "https://github.com/spatie/unit-conversions",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
+            "name": "Nivesh Saharan",
+            "email": "nivesh@gmail.com",
             "homepage": "https://spatie.be",
             "role": "Developer"
         }
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Skeleton\\": "src"
+            "Centire\\UnitConversion\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Skeleton\\Tests\\": "tests"
+            "Centire\\UnitConversion\\Tests\\": "tests"
         }
     },
     "scripts": {
