@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Centire\\UnitConversion\\": "src"
+            "Centire\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Centire\\UnitConversion\\Tests\\": "tests"
+            "Centire\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
