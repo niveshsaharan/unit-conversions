@@ -1,8 +1,8 @@
 # Unit conversion in PHP
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/niveshsaharan/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/niveshsaharan/unit-conversions)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/centire/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/centire/unit-conversions)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/niveshsaharan/unit-conversions/run-tests?label=tests)](https://github.com/niveshsaharan/unit-conversions/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![Total Downloads](https://img.shields.io/packagist/dt/niveshsaharan/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/niveshsaharan/unit-conversions)
+[![Total Downloads](https://img.shields.io/packagist/dt/centire/unit-conversions.svg?style=flat-square)](https://packagist.org/packages/centire/unit-conversions)
 
 
 A wonderful package for unit conversions in PHP
